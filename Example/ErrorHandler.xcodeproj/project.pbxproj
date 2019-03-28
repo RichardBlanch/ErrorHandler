@@ -76,7 +76,7 @@
 		89B54F493899982CBBC5B2C3 /* Pods-ErrorHandler_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ErrorHandler_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ErrorHandler_Tests/Pods-ErrorHandler_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8EB0BFA608AA11B2329019DF /* Pods-ErrorHandler_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ErrorHandler_Example.debug.xcconfig"; path = "Target Support Files/Pods-ErrorHandler_Example/Pods-ErrorHandler_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		977DABAA96577511BF38B7CA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		A71FB040B12C3D0D2742E3DF /* ErrorHandler.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ErrorHandler.podspec; path = ../ErrorHandler.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A71FB040B12C3D0D2742E3DF /* RBErrorHandler.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RBErrorHandler.podspec; path = ../RBErrorHandler.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E648BEBF352B4006C643985A /* Pods_ErrorHandler_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ErrorHandler_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -168,7 +168,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				A71FB040B12C3D0D2742E3DF /* ErrorHandler.podspec */,
+				A71FB040B12C3D0D2742E3DF /* RBErrorHandler.podspec */,
 				7748112981D3D7AD1566DDD4 /* README.md */,
 				977DABAA96577511BF38B7CA /* LICENSE */,
 			);

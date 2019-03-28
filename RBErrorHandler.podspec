@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ErrorHandler'
+  s.name             = 'RBErrorHandler'
   s.version          = '1.0.1'
   s.summary          = 'A short description of ErrorHandler.'
   s.swift_version = '5.0'
