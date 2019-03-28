@@ -1,0 +1,16 @@
+PODS:
+  - ErrorHandler (0.1.0)
+
+DEPENDENCIES:
+  - ErrorHandler (from `../`)
+
+EXTERNAL SOURCES:
+  ErrorHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ErrorHandler: 9ea431af663a55432dc5d975c2d0b9d4d8d424e2
+
+PODFILE CHECKSUM: 7f805dc4de6b6ea75ed3ba0954ecf5aba2000942
+
+COCOAPODS: 1.6.1
